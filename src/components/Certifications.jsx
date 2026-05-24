@@ -10,15 +10,15 @@ const certs = [
     issuer: 'Codebasics',
     detail: '11h 39min · 1.5M record real dataset',
     date: 'Jan 2026',
-    image: '', // e.g. 'https://i.ibb.co/xxx/sql-cert.jpg'
-    link: '',  // e.g. 'https://codebasics.io/certificate/CB-50-641973'
+    image: '/Ajay-portfolio/certi/sql.jpg',
+    link: '',
   },
   {
     title: 'Data Engineering Basics for Data Analysts',
     issuer: 'Codebasics',
     detail: 'ETL pipelines · AWS S3, Glue, Athena, Redshift',
     date: 'Jan 2026',
-    image: '',
+    image: '/Ajay-portfolio/certi/bfda.jpg',
     link: '',
   },
   {
@@ -26,15 +26,7 @@ const certs = [
     issuer: 'Skill Course',
     detail: 'Data visualization & business intelligence dashboards',
     date: 'Dec 2025',
-    image: '',
-    link: '',
-  },
-  {
-    title: 'O-Level (Computer Applications)',
-    issuer: 'NIELIT',
-    detail: 'National Institute of Electronics & Information Technology',
-    date: 'Jan 2026',
-    image: '',
+    image: '/Ajay-portfolio/certi/bi.png',
     link: '',
   },
 ]
@@ -124,7 +116,7 @@ export default function Certifications() {
           </h2>
           <div className="w-12 h-1 mt-4 rounded-full bg-gradient-to-r from-indigo-500 to-violet-500" />
           <p className="mt-3 text-sm dark:text-slate-500 text-slate-400 font-light">
-            Add your certificate images & links inside <code className="dark:bg-slate-800 bg-slate-200 px-1 rounded text-indigo-500 text-xs">src/components/Certifications.jsx</code>
+             <code className="dark:bg-slate-800 bg-slate-200 px-1 rounded text-indigo-500 text-xs">src/components/Certifications.jsx</code>
           </p>
         </div>
 

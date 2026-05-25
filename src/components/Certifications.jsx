@@ -116,7 +116,7 @@ export default function Certifications() {
           </h2>
           <div className="w-12 h-1 mt-4 rounded-full bg-gradient-to-r from-indigo-500 to-violet-500" />
           <p className="mt-3 text-sm dark:text-slate-500 text-slate-400 font-light">
-             <code className="dark:bg-slate-800 bg-slate-200 px-1 rounded text-indigo-500 text-xs">src/components/Certifications.jsx</code>
+             <code className="dark:bg-slate-800 bg-slate-200 px-1 rounded text-indigo-500 text-xs"></code>
           </p>
         </div>
 

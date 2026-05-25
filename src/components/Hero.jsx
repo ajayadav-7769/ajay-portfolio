@@ -128,8 +128,12 @@ export default function Hero() {
         <div className="hidden md:block animate-float">
           <div className="w-64 rounded-2xl border dark:border-slate-800 border-slate-200 dark:bg-slate-900 bg-white shadow-2xl p-6">
             {/* Avatar */}
-            <div className="w-16 h-16 rounded-full bg-gradient-to-br from-indigo-500 to-violet-600 flex items-center justify-center font-heading font-bold text-2xl text-white mx-auto mb-3 shadow-lg shadow-indigo-500/30">
-              AK
+            <div className="w-16 h-16 rounded-full bg-gradient-to-br from-indigo-500 to-violet-600 flex items-center justify-center mx-auto mb-3 shadow-lg shadow-indigo-500/30 overflow-hidden">
+              <img
+                src="/cv/my-profile.jpeg"
+                alt="Avatar"
+                className="w-full h-full object-cover"
+              />
             </div>
             <h3 className="font-heading font-bold text-center dark:text-white text-slate-900 text-sm mb-0.5">Ajay Kumar Yadav</h3>
             <p className="text-center text-xs dark:text-slate-500 text-slate-400 mb-4">Gorakhpur, Uttar Pradesh</p>

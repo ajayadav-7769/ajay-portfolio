@@ -11,7 +11,7 @@ const certs = [
     detail: '11h 39min · 1.5M record real dataset',
     date: 'Jan 2026',
     image: '/ajay-portfolio/certi/sql.jpg',
-    link: '',
+    link: 'https://codebasics.io/certificate/CB-50-641973',
   },
   {
     title: 'Data Engineering Basics for Data Analysts',
@@ -19,7 +19,15 @@ const certs = [
     detail: 'ETL pipelines · AWS S3, Glue, Athena, Redshift',
     date: 'Jan 2026',
     image: '/ajay-portfolio/certi/bfda.jpg',
-    link: '',
+    link: 'https://codebasics.io/certificate/CB-103-641973',
+  },
+  {
+    title: 'NEC 2025 - Advance Track',
+    issuer: 'E-Cell, IIT Bombay',
+    detail: 'I’ve obtained a new certification: NEC 2025',
+    date: '2025',
+    image: '/ajay-portfolio/certi/iit.jpeg',
+    link: 'https://www.ecell.in/certificate/certi?email=ajayadav7769@gmail.com&year=2025-2026',
   },
   {
     title: 'Power BI Micro Course',
@@ -27,7 +35,7 @@ const certs = [
     detail: 'Data visualization & business intelligence dashboards',
     date: 'Dec 2025',
     image: '/ajay-portfolio/certi/bi.png',
-    link: '',
+    link: 'https://exam.skillcourse.in/student/view_certificate?uid=SC-4578614A0B',
   },
 ]
 // ─────────────────────────────────────────────────────────────────────────────

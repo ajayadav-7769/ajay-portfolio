@@ -10,7 +10,7 @@ const certs = [
     issuer: 'Codebasics',
     detail: '11h 39min · 1.5M record real dataset',
     date: 'Jan 2026',
-    image: '/Ajay-portfolio/certi/sql.jpg',
+    image: '/ajay-portfolio/certi/sql.jpg',
     link: '',
   },
   {
@@ -18,7 +18,7 @@ const certs = [
     issuer: 'Codebasics',
     detail: 'ETL pipelines · AWS S3, Glue, Athena, Redshift',
     date: 'Jan 2026',
-    image: '/Ajay-portfolio/certi/bfda.jpg',
+    image: '/ajay-portfolio/certi/bfda.jpg',
     link: '',
   },
   {
@@ -26,7 +26,7 @@ const certs = [
     issuer: 'Skill Course',
     detail: 'Data visualization & business intelligence dashboards',
     date: 'Dec 2025',
-    image: '/Ajay-portfolio/certi/bi.png',
+    image: '/ajay-portfolio/certi/bi.png',
     link: '',
   },
 ]
